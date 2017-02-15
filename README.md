@@ -10,3 +10,4 @@ Chessify does not uniquely identify pieces, instead it uses the known beginning 
 ![Screenshot](images/screenshot_beginning.png)
 ![Screenshot](images/screenshot_middle.png)
 ![Screenshot](images/screenshot_end.png)
+![Screenshot](images/screenshot_setup.png)

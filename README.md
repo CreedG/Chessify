@@ -8,11 +8,11 @@ You can compile the code above and get out a chessboard. and it will *maybe* wor
 Chessify does not uniquely identify pieces, instead it uses the known beginning state of a chess game and tracks piece movements. It mostly relies on performing edge detection and luminance variation on camera preview frames.
 
 
-<img src="images/screenshot_beginning.png" align="left" height="576" width="324" >
+<img src="images/screenshot_beginning.png" height="576" width="324" >
 
-<img src="images/screenshot_middle.png" align="left" height="576" width="324" >
+<img src="images/screenshot_middle.png" height="576" width="324" >
 
-<img src="images/screenshot_end.png" align="left" height="576" width="324" >
+<img src="images/screenshot_end.png" height="576" width="324" >
 
 A picture of the setup
 

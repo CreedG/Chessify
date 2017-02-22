@@ -17,4 +17,4 @@ A picture of the setup
 
 Chessify is currently under development, i.e. not yet released.
 
-You can compile the code above and get out a chessboard. and it will *maybe* work on your device. So far it has only been tested on a Samsung Galaxy S5 (1080x1920) but tracks pieces fairly robustly, especially when the mount is placed higher and perspective is minimised. 
+You can compile the code above and get out a chessboard. It should, but is not guaranteed to work on every device depending on camera and resolution details (development was on a Samsung Galaxy S5). It tracks pieces fairly robustly, especially when the mount is placed higher and perspective is minimised. 

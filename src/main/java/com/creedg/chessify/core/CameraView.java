@@ -6,6 +6,8 @@ import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+import com.creedg.chessify.image_tools.ImageProcessing;
+
 import java.io.IOException;
 
 public class CameraView extends SurfaceView implements SurfaceHolder.Callback, Camera.PreviewCallback {

@@ -18,6 +18,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
+import com.creedg.chessify.image_tools.ImageProcessing;
+
 
 public class Chessify extends Activity  {
 
@@ -26,9 +28,9 @@ public class Chessify extends Activity  {
     public int screenWidth;
     public int screenHeight;
     public int statusBarHeight;
-    CameraOverlay overlay;
+    public CameraOverlay overlay;
 
-    GameModel game;
+    public GameModel game;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
